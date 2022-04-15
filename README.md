@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Guilherme-Daneliv23
-- 👀 I’m interested in  programação .
-- 🌱 I’m currently learning  Front-end.
-- 💞️ I’m looking to collaborate on  projetos de Front-end .
-- 📫 How to reach me  por meio do  email .
+- 👋 Olá eu sou o Guilherme Daneliv.
+- 👀 Tenho interesse em desenvolvimento Web.
+- 🌱 No momento estou aprendendo Front-end com JS.
+- 💞️ Estou procurando times de desenvolvimento.
+- 📫 Para me encontrar, mande um e-mail!
 
 <!---
 Guilherme-Daneliv23/Guilherme-Daneliv23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

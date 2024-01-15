@@ -4,7 +4,7 @@
 <a href="https://instagram.com/daneliv.ti"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ## Hello world! :wave:
-:eyes: Eu me chamo Guilherme Daneliv tenho 15 anos, comecei a estudar programação a pouco mais de um ano. No momento pratico desenvolvimento web Front-end, além de conhecer o básico de Sql. Tenho vontade de aprender a desenvolver também em outras áreas como Data Science, Back-end, bem como aprimorar os conhecimentos que já tenho!
+:eyes: Eu me chamo Guilherme Daneliv tenho 17 anos, comecei a estudar programação a 3 anos. No momento, pratico desenvolvimento web Front-end, além de conhecer o básico de Sql. Tenho vontade de aprender a desenvolver também em outras áreas como Data Science, Back-end, bem como aprimorar os conhecimentos que já tenho!
 
 :pushpin: No momento estou aprendendo JavaScript, para poder tornar meus sites dotados de comportamento.
 
